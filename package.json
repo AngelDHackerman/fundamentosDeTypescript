@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/angelDariaux/fundamentosDeTypescript/issues"
   },
-  "homepage": "https://github.com/angelDariaux/fundamentosDeTypescript#readme"
+  "homepage": "https://github.com/angelDariaux/fundamentosDeTypescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
