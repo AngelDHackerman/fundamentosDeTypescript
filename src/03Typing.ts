@@ -1,4 +1,4 @@
-//todo: (() => {}) ();    Esta es una funcion anonima donde podemos meter todo nuestro codigo para que Ts no choque entre si.
+//todo: (() => {}) ();    Esta es una funcion anonima autoejecutada, donde podemos meter todo nuestro codigo para que Ts no choque entre si.
 
 (() => {
   let myProductName: string = 'Product 1';
