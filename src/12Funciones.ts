@@ -20,3 +20,5 @@ const producto1 = createProductToJson('P1', new Date(), 12, 'L');
 console.log(producto1);
 console.log(producto1.title);
 console.log(producto1.stock);
+
+// trabajaremos manana en el codigo
