@@ -2,7 +2,7 @@
 
 //todo: Asi usariamos las librerias que no tienen soporte para TS:
 
-import _ from 'lodash'; // ? Esto no funciona a la primera debemos usar: npm i --save-dev @types/lodash, y eso nos lo sugiere TS
+import _ from 'lodash'; // ! Esto no funciona a la primera debemos usar: npm i --save-dev @types/lodash, y eso nos lo sugiere TS
 
 const data = [
   {
